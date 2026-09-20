@@ -108,3 +108,5 @@ Ctrl+C / Ctrl+D	exits politely
 CodeAlpha_StockPortfolioTracker/
 ├── stock_tracker.py
 └── README.md
+👤 Author
+Your Name: RAMYA DURGAM
